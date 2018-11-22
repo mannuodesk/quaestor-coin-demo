@@ -7,8 +7,8 @@
   },
   "win32-ia32-prod": {
     "readme": "Second release",
-    "update": "https://drive.google.com/a/ideofuzion.com/uc?export=download&id=15ttqVbbw3Ul__2P6XabkBoC86La_w7_3",
-    "install": "https://drive.google.com/a/ideofuzion.com/uc?export=download&id=15ttqVbbw3Ul__2P6XabkBoC86La_w7_3",
+    "update": "http://18.218.239.225/Quaestor-Installer.exe",
+    "install": "http://18.218.239.225/Quaestor-Installer.exe",
     "version": "1.0.1"
   },
   "darwin-x64-prod": {
