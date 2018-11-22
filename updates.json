@@ -7,8 +7,8 @@
   },
   "win32-ia32-prod": {
     "readme": "Second release",
-    "update": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-ia32-prod-v1.0.1",
-    "install": "https://github.com/megahertz/electron-simple-updater/releases/download/win32-ia32-prod-v1.0.1/Simple.Updater.Example.Setup.0.0.2.exe",
+    "update": "C:\Users\MEGA TECH\Desktop\installer",
+    "install": "C:\Users\MEGA TECH\Desktop\installer\Quaestor-Installer.exe",
     "version": "1.0.1"
   },
   "darwin-x64-prod": {
