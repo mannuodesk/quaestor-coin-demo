@@ -8,7 +8,7 @@
   "win32-ia32-prod": {
     "readme": "Second release",
     "update": "https://github.com/mannuodesk/quaestor-coin-demo/releases/download/1.0.1",
-    "install": "https://github.com/mannuodesk/quaestor-coin-demo/releases/download/1.0.1/Quaestor-Installer.exe,
+    "install": "https://github.com/mannuodesk/quaestor-coin-demo/releases/download/1.0.1/Quaestor-Installer.exe",
     "version": "1.0.1"
   },
   "darwin-x64-prod": {
